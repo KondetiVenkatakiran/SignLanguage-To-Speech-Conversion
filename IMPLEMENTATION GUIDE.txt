@@ -1,0 +1,21 @@
+INSTALL
+----------------
+PYTHON 3.11
+
+IMPLEMENTATION
+----------------
+1.EXTRACT ZIP FILE
+2.Makesure to Change bg directory of image
+3.OPEN FILE DIRECTORY IN CMD (COMMAND PROMPT)
+4.AFTER OPENING CMD 
+c:/hp:/:SignLanguage To Speech Conversion/:SignLanguage To Speech Conversion-(now type)
+
+
+python -m venv myenv
+
+myenv\Scripts\activate
+
+
+python app.py
+
+5.NOW ITS RUNNING ON DESKTOP
